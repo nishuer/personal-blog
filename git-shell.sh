@@ -16,7 +16,7 @@ release() {
 }
 
 echo 'a、部署文章'
-echo 'b、推送原文件'
+echo 'b、推送变更'
 echo 'c、部署并推送'
 echo '请根据字母选择您的操作：'
 

@@ -69,5 +69,5 @@ theme: Hacker
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:nishuer/nishuer.github.io.git
+  repo: https://github.com/nishuer/nishuer.github.io.git
   branch: master
