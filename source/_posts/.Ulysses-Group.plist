@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resolutionData</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>ECMAScript 6(上).md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496850411.55104399</real>
+				<key>version</key>
+				<dict>
+					<key>456d1da38dd5600fa19eaee4032d3836b26819533e2ff6383bac19a6a7f67751</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>ECMAScript 6(下).md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>496850411.55104399</real>
+				<key>version</key>
+				<dict>
+					<key>456d1da38dd5600fa19eaee4032d3836b26819533e2ff6383bac19a6a7f67751</key>
+					<integer>14</integer>
+				</dict>
+			</dict>
+			<key>Ulysses-code-blocks-highlighting.md</key>
+			<dict>
+				<key>lastModification</key>
+				<real>494823717.78618097</real>
+				<key>version</key>
+				<dict>
+					<key>456d1da38dd5600fa19eaee4032d3836b26819533e2ff6383bac19a6a7f67751</key>
+					<integer>11</integer>
+				</dict>
+			</dict>
+			<key>god-cli.md</key>
+			<dict>
+				<key>explicitUnassignment</key>
+				<true/>
+				<key>firstUnassignment</key>
+				<real>496855459.21576297</real>
+				<key>lastModification</key>
+				<real>496855459.21576297</real>
+				<key>version</key>
+				<dict>
+					<key>456d1da38dd5600fa19eaee4032d3836b26819533e2ff6383bac19a6a7f67751</key>
+					<integer>15</integer>
+				</dict>
+			</dict>
+		</dict>
+	</dict>
+	<key>sheetClusters</key>
+	<array>
+		<array>
+			<string>god-cli.md</string>
+		</array>
+		<array>
+			<string>Ulysses-code-blocks-highlighting.md</string>
+		</array>
+		<array>
+			<string>ECMAScript 6(上).md</string>
+		</array>
+		<array>
+			<string>ECMAScript 6(下).md</string>
+		</array>
+	</array>
+	<key>storeFormatVersion</key>
+	<integer>1</integer>
+	<key>versioning</key>
+	<dict>
+		<key>sheetClusters</key>
+		<dict>
+			<key>456d1da38dd5600fa19eaee4032d3836b26819533e2ff6383bac19a6a7f67751</key>
+			<integer>15</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
